@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Drugs-FDA/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/Drugs-FDA/static/js/main.7ec80027.chunk.js",
+    "main.js.map": "/Drugs-FDA/static/js/main.7ec80027.chunk.js.map",
+    "runtime-main.js": "/Drugs-FDA/static/js/runtime-main.0d6b1749.js",
+    "runtime-main.js.map": "/Drugs-FDA/static/js/runtime-main.0d6b1749.js.map",
+    "static/js/2.ad8227fc.chunk.js": "/Drugs-FDA/static/js/2.ad8227fc.chunk.js",
+    "static/js/2.ad8227fc.chunk.js.map": "/Drugs-FDA/static/js/2.ad8227fc.chunk.js.map",
+    "index.html": "/Drugs-FDA/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/Drugs-FDA/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.ad8227fc.chunk.js.LICENSE.txt": "/Drugs-FDA/static/js/2.ad8227fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d6b1749.js",
+    "static/js/2.ad8227fc.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.7ec80027.chunk.js"
+  ]
+}
